@@ -1,0 +1,7 @@
+{
+  "name": "FerreMax-APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
